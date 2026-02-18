@@ -1,13 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#">Lucia</a> 👋</h1>
 
-<img src="banner.png" width="100%"> 
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/LuciaPestana?style=social" alt="GitHub followers">
-<img src="https://img.shields.io/badge/DAM-Estudiante-blue?style=social" alt="DAM Student">
-</p>
-</div>
 
 ## Sobre mí
 
