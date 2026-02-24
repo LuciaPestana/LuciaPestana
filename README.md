@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner Lucía Hdez Pestana" width="100%">
+  <img src="banner.png" alt="Banner Lucía Hdez Pestana" width="100%">
 </p>
 
 # ¡Hola! Soy Lucía Hernández Pestana 👋
