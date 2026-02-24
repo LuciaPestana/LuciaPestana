@@ -31,7 +31,6 @@ En este perfil y mis repositorios asociados, aplico prácticas profesionales de:
 * **Localización:** Los Llanos de Aridane, España 📍
 
 
----
 
-### 📈 Mis Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=radical)
+
+
